@@ -1,0 +1,16 @@
+#loginLbl
+{
+    -fx-background-color: #E6E6FA;
+    -fx-border-radius: 777;
+
+}
+
+#mainPanel
+{
+    -fx-background-color: #E6E6FA/*lavenderblush*/;
+}
+
+#loginPanel
+{
+    -fx-background-color: #ADD8E6;
+}
